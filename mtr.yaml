@@ -1,0 +1,7 @@
+args: ["--tcp", "--port", "443"]
+cycles: 10
+hosts:
+  - name: "www.heise.de"
+    alias: "heise_de"
+  - name: "www.spiegel.de"
+    alias: "spiegel_de"
